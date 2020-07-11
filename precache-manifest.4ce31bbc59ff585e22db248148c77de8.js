@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae57fcb974e50cceee56f97a58386aa9",
+    "revision": "67203c0c381d8f550dd3b2597a689404",
     "url": "/riby-agent/index.html"
   },
   {
-    "revision": "3956e569a39af000b44e",
-    "url": "/riby-agent/static/css/main.4ea7e01d.chunk.css"
+    "revision": "47cfd2f4a7e174675d45",
+    "url": "/riby-agent/static/css/main.04328d1d.chunk.css"
   },
   {
     "revision": "950781a7289b2fe7616c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/riby-agent/static/js/2.0c35b28c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3956e569a39af000b44e",
-    "url": "/riby-agent/static/js/main.f8bba5ab.chunk.js"
+    "revision": "47cfd2f4a7e174675d45",
+    "url": "/riby-agent/static/js/main.f398856e.chunk.js"
   },
   {
     "revision": "8921a564547159f1cc70",
