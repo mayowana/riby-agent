@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/riby-agent/static/css/main.04328d1d.chunk.css",
+    "main.css": "/riby-agent/static/css/main.17940dba.chunk.css",
     "main.js": "/riby-agent/static/js/main.f398856e.chunk.js",
     "main.js.map": "/riby-agent/static/js/main.f398856e.chunk.js.map",
     "runtime-main.js": "/riby-agent/static/js/runtime-main.0e4c5659.js",
@@ -8,9 +8,9 @@
     "static/js/2.0c35b28c.chunk.js": "/riby-agent/static/js/2.0c35b28c.chunk.js",
     "static/js/2.0c35b28c.chunk.js.map": "/riby-agent/static/js/2.0c35b28c.chunk.js.map",
     "index.html": "/riby-agent/index.html",
-    "precache-manifest.4ce31bbc59ff585e22db248148c77de8.js": "/riby-agent/precache-manifest.4ce31bbc59ff585e22db248148c77de8.js",
+    "precache-manifest.638b385da09e673195b4603dfb764b76.js": "/riby-agent/precache-manifest.638b385da09e673195b4603dfb764b76.js",
     "service-worker.js": "/riby-agent/service-worker.js",
-    "static/css/main.04328d1d.chunk.css.map": "/riby-agent/static/css/main.04328d1d.chunk.css.map",
+    "static/css/main.17940dba.chunk.css.map": "/riby-agent/static/css/main.17940dba.chunk.css.map",
     "static/js/2.0c35b28c.chunk.js.LICENSE.txt": "/riby-agent/static/js/2.0c35b28c.chunk.js.LICENSE.txt",
     "static/media/app.png": "/riby-agent/static/media/app.5e54928f.png",
     "static/media/arrow.svg": "/riby-agent/static/media/arrow.45f50a78.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e4c5659.js",
     "static/js/2.0c35b28c.chunk.js",
-    "static/css/main.04328d1d.chunk.css",
+    "static/css/main.17940dba.chunk.css",
     "static/js/main.f398856e.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/riby-agent/precache-manifest.4ce31bbc59ff585e22db248148c77de8.js"
+  "/riby-agent/precache-manifest.638b385da09e673195b4603dfb764b76.js"
 );
 
 self.addEventListener('message', (event) => {
