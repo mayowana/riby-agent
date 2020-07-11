@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/riby-agent/static/css/main.4ea7e01d.chunk.css",
+    "main.js": "/riby-agent/static/js/main.f8bba5ab.chunk.js",
+    "main.js.map": "/riby-agent/static/js/main.f8bba5ab.chunk.js.map",
+    "runtime-main.js": "/riby-agent/static/js/runtime-main.0e4c5659.js",
+    "runtime-main.js.map": "/riby-agent/static/js/runtime-main.0e4c5659.js.map",
+    "static/js/2.0c35b28c.chunk.js": "/riby-agent/static/js/2.0c35b28c.chunk.js",
+    "static/js/2.0c35b28c.chunk.js.map": "/riby-agent/static/js/2.0c35b28c.chunk.js.map",
+    "index.html": "/riby-agent/index.html",
+    "precache-manifest.c1b636e6f17283fe5825c88eb84ebcfb.js": "/riby-agent/precache-manifest.c1b636e6f17283fe5825c88eb84ebcfb.js",
+    "service-worker.js": "/riby-agent/service-worker.js",
+    "static/css/main.4ea7e01d.chunk.css.map": "/riby-agent/static/css/main.4ea7e01d.chunk.css.map",
+    "static/js/2.0c35b28c.chunk.js.LICENSE.txt": "/riby-agent/static/js/2.0c35b28c.chunk.js.LICENSE.txt",
+    "static/media/app.png": "/riby-agent/static/media/app.5e54928f.png",
+    "static/media/arrow.svg": "/riby-agent/static/media/arrow.45f50a78.svg",
+    "static/media/boss.svg": "/riby-agent/static/media/boss.ffd7ad0f.svg",
+    "static/media/header.png": "/riby-agent/static/media/header.511db572.png",
+    "static/media/investment.svg": "/riby-agent/static/media/investment.56cb507b.svg",
+    "static/media/logo.svg": "/riby-agent/static/media/logo.0a446b1c.svg",
+    "static/media/Body.module.scss": "/riby-agent/static/media/marker.1fce7054.svg",
+    "static/media/require.png": "/riby-agent/static/media/require.aabdb4aa.png",
+    "static/media/wallet.svg": "/riby-agent/static/media/wallet.119c8c3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e4c5659.js",
+    "static/js/2.0c35b28c.chunk.js",
+    "static/css/main.4ea7e01d.chunk.css",
+    "static/js/main.f8bba5ab.chunk.js"
+  ]
+}
