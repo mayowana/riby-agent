@@ -1,0 +1,137 @@
+//VARIABLES
+
+$background: #FFE5E5;
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background-color: $background;
+    overflow: hidden;
+    display: block;
+}
+
+.fahome {
+    color: black;
+    height: 44px;
+}
+
+.navbox {
+    padding-top: 1rem;
+    height: 3.5rem;
+    z-index: 300;
+}
+
+.navbar {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 3.5rem;
+}
+
+.navmenu {
+    display: flex;
+    font-family: 'Poppins';
+    align-items: center;
+    color:#0C223D;
+
+    p {
+        margin: 0 1rem;
+    }
+}
+
+.menubutton {
+    border: 2px solid;
+    border-radius: 300px;
+    padding: 0.4rem 2rem;
+}
+
+.login {
+    @extend .menubutton;
+    border-color: #D80C1B;
+}
+
+.signup {
+    @extend .menubutton;
+    border-color: #0C223D;
+    background-color: #0C223D;
+    color: white;
+}
+
+.hero {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    color: #0C223D;
+    margin-top: 3rem;
+    font-family: 'Poppins';
+}
+
+.maintext {
+    width: 40vw;
+    
+    h1 {
+        font-size: 300%;
+    }
+}
+
+.started {
+    @extend .menubutton;
+    border-color: #DF041F;
+    background-color: #DF041F;
+    color: white;
+    width: 150px;
+    text-align: center;
+}
+
+.mainpic {
+    width: 50vw;
+}
+
+@media only screen and (max-width: 1024px) {
+    .navmenu {
+        display: none;
+    }
+
+    .hero {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .maintext {
+        width: 90vw;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        h1 {
+            font-size: 300%;
+        }
+    }
+
+    .mainpic {
+        width: 100vw;
+        height: auto;
+    }
+
+    .started {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    header {
+        height: 120vh;
+    }
+    
+    .maintext {
+        
+        h1 {
+            font-size: 200%;
+        }
+    }
+
+}

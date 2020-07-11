@@ -1,0 +1,15 @@
+.menubutton {
+    border: 2px solid;
+    border-radius: 300px;
+    padding: 0.4rem 2rem;
+}
+
+.started {
+    @extend .menubutton;
+    border-color: #DF041F;
+    background-color: #DF041F;
+    color: white;
+    width: 150px;
+    text-align: center;
+    font-family: 'Poppins';
+}
